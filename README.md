@@ -1,7 +1,7 @@
 # America By Train
 Visualizing one week of Amtrak activity.
 
-Full video available here:
+Full video available here: https://vimeo.com/196621573
 
 Amtrak GTFS data was obtained in 2013 via a FOIA request. See here: https://groups.google.com/forum/#!topic/transit-developers/XcSiFD3uzuw
 
